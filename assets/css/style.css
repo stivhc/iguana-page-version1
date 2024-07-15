@@ -1,0 +1,101 @@
+* {                   
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+/*Body */
+body {
+    font-family: "Raleway", sans-serif;
+    background-color: #000000;
+    color:#FFFFFF;  
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+/*Header */
+header {
+    color: #FFFFFF;
+    text-align: center;
+    vertical-align: middle;
+    padding: 20px;
+}
+
+/*hero section*/
+.iguanagigante {
+    width: 100%;
+}
+
+
+
+/*desc-section*/
+#desc-section {
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+.desc-texto {
+    width: 475px;
+    height: 197px;
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.desc-img {
+    margin: 70px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+/*Características*/
+
+#Caracteristicas {
+    background-color: #1e1a13;
+    padding: 80px 120px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 25px;
+}
+
+#Caracteristicas h2 {
+    font-size: 45px;
+    margin-bottom: 50px;
+}
+
+#Caracteristicas article {
+    display: inline-block;
+    margin: 0px 50px;
+}
+
+#Caracteristicas article i {
+    margin-bottom: 45px; 
+}
+
+/*Fotografías*/
+
+#Fotografias {
+    padding: 80px;
+}
+
+#Fotografias article {
+    display: inline-block;
+    margin: 16px;
+}
+
+#Fotografias article img {
+    height: 300px;
+    margin: 25px;
+}
+
+/*footer*/
+
+footer {
+    text-align: center;
+    vertical-align: middle;
+    background: #1e1a13;
+    color: white;
+    padding: 50px;
+}
